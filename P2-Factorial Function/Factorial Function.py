@@ -1,4 +1,3 @@
-
 #Factorial Function - Burak Karabey
 
 def factorial_function():
