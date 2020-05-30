@@ -1,0 +1,1 @@
+In number theory, a narcissistic number, an Armstrong number (after Michael F. Armstrong) in a given number base is a number that is the sum of its own digits each raised to the power of the number of digits.
